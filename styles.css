@@ -79,6 +79,10 @@
         box-shadow: 0 6px 20px rgba(0, 204, 68, 0. 6);
       }
 
+     .ad {
+          color: #ffffff;
+     }
+
       button:active {
         transform: scale(0.98);
       }
