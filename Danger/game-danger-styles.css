@@ -30,7 +30,7 @@
         box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
         max-width: 700px;
         width: 90%;
-        border: 2px solid #00cc44;
+        border: 2px solid #d40000;
       }
 
        .tit {
@@ -61,14 +61,14 @@
       @keyframes buttonHover {
         0% {
           background: transparent;
-          color: #00cc44;
+          color: #CC0E00;
           transform: scale(1);
         }
         50% {
           transform: scale(1.05);
         }
         100% {
-          background: #00cc44;
+          background: #CC1100;
           color: #1a1a1a;
           transform: scale(1.05);
         }
@@ -78,12 +78,12 @@
         padding: 18px 50px;
         font-size: 16px;
         font-weight: 600;
-        border: 2px solid #00cc44;
+        border: 2px solid #CC0300;
         border-radius: 10px;
         cursor: pointer;
         transition: all 0. 3s ease;
         background: transparent;
-        color: #00cc44;
+        color: #CC0700;
         box-shadow: 0 4px 15px rgba(0, 204, 68, 0.2);
       }
 
