@@ -16,6 +16,9 @@ body {
 
 p {
   color: #ffffff;
+  margin-top: 30px;
+  font-size: 14px;
+  display: block;
 }
 
 .container {
@@ -82,6 +85,9 @@ button:hover {
 
 .ad {
   color: #ffffff;
+  margin-top: 30px;
+  font-size: 14px;
+  display: block;
 }
 
 button:active {
